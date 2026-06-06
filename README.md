@@ -54,7 +54,3 @@ A 2D space shooter prototype built with Unity. Pilot your spaceship, fend off en
 This is a **prototype / demo project** — one level, one wave loop, built to explore Unity 2D mechanics like movement, shooting, enemy AI, and procedural background generation.
 
 ---
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
